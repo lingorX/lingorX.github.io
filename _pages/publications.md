@@ -10,7 +10,7 @@ author_profile: true
 {% endif %}
 
 ## Preprints
-- **[May 23] Robust Image Watermarking using Stable Diffusion.** [[PDF](https://arxiv.org/abs/2305.06558)][[Code](https://github.com/z-x-yang/Segment-and-Track-Anything)]
+- **[May 23] Segment and Track Anything** [[PDF](https://arxiv.org/abs/2305.06558)][[Code](https://github.com/z-x-yang/Segment-and-Track-Anything)]
 <br> Yangming Cheng, **Liulei Li**, Yuanyou Xu, Xiaodi Li, Zongxin Yang, Wenguan Wang, Yi Yang
 
 ## 2024
