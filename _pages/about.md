@@ -21,7 +21,7 @@ I am currently a Ph.D. student at [ReLER Lab](https://reler.net), [AAII](https:/
 - **[Nov. 23]**: Our work "[Semantic Hierarchy-Aware Segmentation](https://ieeexplore.ieee.org/document/10316583)" is accepted to TPAMI.
 - **[Seq. 23]**: Our work "[Neural-Logic Human-Object Interaction Detection](https://proceedings.neurips.cc/paper_files/paper/2023/file/42b7c2f6d320d1fe1afa899a6319d6d7-Paper-Conference.pdf)" is accepted to NeurIPS 2023.
 - **[Aug. 23]**: Two papers are accepted to ICCV 2023 as oral presentations.
-- **[Feb. 23]**: Two papers are accepted to CVPR 2024.
+- **[Feb. 23]**: Two papers are accepted to CVPR 2023.
 
 
 
