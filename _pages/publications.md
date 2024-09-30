@@ -14,6 +14,10 @@ author_profile: true
 <br> Yangming Cheng, **Liulei Li**, Yuanyou Xu, Xiaodi Li, Zongxin Yang, Wenguan Wang, Yi Yang
 
 ## 2024
+- **[NeurIPS 24] Relation-Driven Diffusion for Human-Object Interaction Detection** [[PDF]()][[code]()] 
+<br> **Liulei Li**, Wenguan Wang, Yi Yang. 
+- **[ECCV 24] General and Task-Oriented Video Segmentation** [[PDF](https://arxiv.org/pdf/2407.06540)][[Code](https://github.com/kagawa588/GvSeg)]
+<br>Mu Chen, **Liulei Li**, Wenguan Wang, Ruijie Quan, Yi Yang.
 - **[CVPR 24] Clustering Propagation for Universal Medical Image Segmentation** [[PDF](https://arxiv.org/abs/2403.16646)][[Code](https://github.com/dyh127/S2VNet)]
 <br> Yuhang Ding, **Liulei Li**, Wenguan Wang, Yi Yang.
 
